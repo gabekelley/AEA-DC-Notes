@@ -5,12 +5,12 @@
 * temptation and utility of shortcuts
 * we need to design and code for ourselves; dreamweaver and bootstrap have always introduced bloat
 * design and build for forward compatibility so that things will still work in the future
-** Full separation of structure from presentation and behavior
-** valid css
-** valid html
-** emphasis on structure
-** structural labeling of design elements
-** dom-based scripting for behavior
+   ** Full separation of structure from presentation and behavior
+   ** valid css
+	 ** valid html
+	 ** emphasis on structure
+	 ** structural labeling of design elements
+	 ** dom-based scripting for behavior
 ** accessibility attributes and testing
 * Adaptive Web Design by Aaron Gustafson - about crafting rich experiences with progressive enhancement
 * “Instagram added a web component and then Facebook bought them for 2 million, you can’t afford to not pay attention to the web.”
