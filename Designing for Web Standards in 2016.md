@@ -20,4 +20,13 @@
 * Lego approach - make a kit
 * Design the doorknob, whats the door look like? Cool door, whats the archway look like? Keep going and you have a cathedral. You may not have the best cathedral but it’ll all work together
 * Flexbox further separates content from presentation
-* 
+* As a stylesheet selector, ID lets you create tight and lean HTML
+* ID offers a standard target for things like JS
+* [Front-End Directors](http://www.zeldman.com/2016/05/24/position-wanted-front-end-director/)
+* Remove distractions; let people interact with content as directly as possible
+* design your system to serve your content, not the other way around
+* flexible system, figure out ux and then build rules that serve that system
+* style is the servant of brand and content; you’re not decorating you’re designing
+* style without purpose is noise
+* remove each detail until it breaks, as this about every little detail
+* don’t design to prove your clever, design to make your user clever
