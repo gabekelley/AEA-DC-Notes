@@ -88,4 +88,4 @@
 
 * anticipate that customers will not be happy at first
 * rollouts should be planned carefully then delivered selectively
-* 
+* responsive is not a project, responsive is a permanent new way of working
